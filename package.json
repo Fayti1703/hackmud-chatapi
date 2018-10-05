@@ -1,0 +1,18 @@
+{
+  "name": "hackmud-chatapi",
+  "version": "0.9.0",
+  "description": "A wrapper for the hackmud chat api written using ES6 classes and promises.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fayti1703/hackmud-chatapi.git"
+  },
+  "dependencies": {
+    "@fayti1703/async-utils": "^0.7.0"
+  },
+  "author": "Fayti1703",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
