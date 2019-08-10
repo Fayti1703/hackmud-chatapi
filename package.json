@@ -1,6 +1,6 @@
 {
   "name": "hackmud-chatapi",
-  "version": "0.10.2",
+  "version": "0.11.0",
   "description": "A wrapper for the hackmud chat api written using ES6 classes and promises.",
   "main": "lib/main.js",
   "scripts": {
